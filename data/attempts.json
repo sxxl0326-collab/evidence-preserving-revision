@@ -1,0 +1,6282 @@
+[
+  {
+    "incident": "I21",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I21",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I21",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I21",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I22",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I22",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I22",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I22",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I15",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I15",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I15",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I15",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": false,
+        "decision": null,
+        "edited": false,
+        "fields": {}
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I07",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I07",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I07",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I07",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I10",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I10",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": false,
+        "decision": null,
+        "edited": false,
+        "fields": {}
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I10",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I10",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I25",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I25",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I25",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I25",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I19",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I19",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I19",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I19",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I08",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I08",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I08",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I08",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I12",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I12",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": false,
+        "decision": null,
+        "edited": false,
+        "fields": {}
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I12",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I12",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I11",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I11",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I11",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I11",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I17",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": false,
+        "decision": null,
+        "edited": false,
+        "fields": {}
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I17",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I17",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I17",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I02",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I02",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I02",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I02",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I06",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I06",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I06",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I06",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I24",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": null,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": null,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I24",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I24",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": null,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I24",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I05",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": null,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": null,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": null,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I05",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I05",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": null,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I05",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I04",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I04",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I04",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I04",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I13",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I13",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I13",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": null,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I13",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": null
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I03",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": null,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I03",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I03",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": null,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I03",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I14",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": null,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I14",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I14",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I14",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I20",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I20",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I20",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I20",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I01",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I01",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I01",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I01",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I16",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I16",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I16",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I16",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I09",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I09",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I09",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": null,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I09",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I23",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": null,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I23",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I23",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": false
+  },
+  {
+    "incident": "I23",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I18",
+    "seed": 7301,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": null,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": null,
+          "substantive_relation_present": null,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I18",
+    "seed": 7301,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I18",
+    "seed": 7302,
+    "polarity": "unsupported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": null,
+          "target_assertion_preserved": false
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": null,
+          "target_assertion_preserved": false
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": false,
+          "substantive_relation_present": false,
+          "target_assertion_preserved": false
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": false
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "revise",
+        "edited": true,
+        "fields": {
+          "wording_supported": false,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": null,
+          "target_assertion_preserved": false
+        }
+      }
+    },
+    "same_verifier_wording": true
+  },
+  {
+    "incident": "I18",
+    "seed": 7302,
+    "polarity": "supported",
+    "arms": {
+      "iterative": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "generic": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "relation_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "untyped_flat": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      },
+      "postedit": {
+        "valid": true,
+        "decision": "retain",
+        "edited": false,
+        "fields": {
+          "wording_supported": true,
+          "focal_factor_preserved": true,
+          "substantive_relation_present": true,
+          "target_assertion_preserved": true
+        }
+      }
+    },
+    "same_verifier_wording": true
+  }
+]

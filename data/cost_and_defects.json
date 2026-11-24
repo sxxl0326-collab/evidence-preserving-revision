@@ -1,0 +1,81 @@
+[
+  {
+    "label": "Whole claim",
+    "input": 427399,
+    "output": 22554,
+    "attempts": 100,
+    "negative": 50,
+    "repaired": 13,
+    "failed_edit": 23,
+    "defects": [
+      12,
+      14,
+      1,
+      6
+    ],
+    "mean_tokens": 4499.53,
+    "repair_percent": 26.0
+  },
+  {
+    "label": "Generic",
+    "input": 426335,
+    "output": 20581,
+    "attempts": 100,
+    "negative": 50,
+    "repaired": 10,
+    "failed_edit": 23,
+    "defects": [
+      9,
+      7,
+      5,
+      5
+    ],
+    "mean_tokens": 4469.16,
+    "repair_percent": 20.0
+  },
+  {
+    "label": "Relation flat",
+    "input": 448251,
+    "output": 14661,
+    "attempts": 100,
+    "negative": 50,
+    "repaired": 7,
+    "failed_edit": 12,
+    "defects": [
+      7,
+      8,
+      2,
+      3
+    ],
+    "mean_tokens": 4629.12,
+    "repair_percent": 14.0
+  },
+  {
+    "label": "Ordinary flat",
+    "input": 442594,
+    "output": 13942,
+    "attempts": 100,
+    "negative": 50,
+    "repaired": 10,
+    "failed_edit": 9,
+    "defects": [
+      4,
+      7,
+      2,
+      3
+    ],
+    "mean_tokens": 4565.36,
+    "repair_percent": 20.0
+  },
+  {
+    "label": "Generic + verifier",
+    "input": 604779,
+    "output": 42442,
+    "attempts": 100,
+    "negative": 50,
+    "repaired": 8,
+    "failed_edit": 28,
+    "mean_tokens": 6472.21,
+    "repair_percent": 16.0
+  }
+]
